@@ -14,7 +14,7 @@ Input text: "A beautiful sunset over the mountains."
 
 Generated Image:
 
-![Generated Image](example_image.jpg)
+![Generated Image](https://github.com/aniketbhavar/Hugging-Face-Model-Image-Generator/blob/main/Screenshot%20(356).png)
 
 ## Contributing
 
