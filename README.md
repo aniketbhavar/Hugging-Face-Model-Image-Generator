@@ -16,7 +16,4 @@ Generated Image:
 
 ![Generated Image](https://github.com/aniketbhavar/Hugging-Face-Model-Image-Generator/blob/main/Screenshot%20(356).png)
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
